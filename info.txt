@@ -1,23 +1,22 @@
-Nombre del Restaurante: Develhope Restaurante
+Develhope Restaurante
 Tipo de Menú: Postres
 
-Bebidas:
-- Agua
-- Refresco
-- Zumo
+    Bebidas:
+        - Agua
+        - Refresco
+        - Zumo
 
+    Tartas:
+        - Tarta Sacher
+        - Tarta de Zanahoria
+        - Tarta de Manzana
 
-Tartas:
-- Tarta Sacher
-- Tarta de Zanahoria
-- Tarta de Manzana
+    Batidos:
+        - Batido de Oreo
+        - Batido de Cookies
+        - Batida de Fresa
 
-Batidos:
-- Batido de Oreo
-- Batido de Cookies
-- Batida de Fresa
-
-Helados:
-- Helado de Mango
-- Helado KitKat
-- Helado Kinder
+    Helados:
+        - Helado de Mango
+        - Helado KitKat
+        - Helado Kinder
