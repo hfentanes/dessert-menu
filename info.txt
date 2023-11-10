@@ -11,3 +11,8 @@ Tartas:
 - Tarta Sacher
 - Tarta de Zanahoria
 - Tarta de Manzana
+
+Batidos:
+- Batido de Oreo
+- Batido de Cookies
+- Batida de Fresa
