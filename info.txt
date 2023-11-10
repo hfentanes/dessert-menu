@@ -16,8 +16,3 @@ Batidos:
 - Batido de Oreo
 - Batido de Cookies
 - Batida de Fresa
-
-Helados:
-- Helado de Mango
-- Helado KitKat
-- Helado Kinder
